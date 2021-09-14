@@ -16,7 +16,7 @@ This is going to be the second paragraph, formatted using whitespace <br> and th
 
 We can add HTML straight to our code!
 
-<a src="https://img.shields.io/badge/some%20label-Hello%20World-red"></a>
+<img src="https://img.shields.io/badge/some%20label-Hello%20World-red"/>
 
 # Sources
 
