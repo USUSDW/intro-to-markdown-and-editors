@@ -12,6 +12,12 @@ This is going to be the second paragraph, formatted using whitespace <br> and th
 
 [`src/factorial.py`](./src/factorial.py#L3) has an issue. It should compute the factorial of a given number, but it will only return 0. Wat do? I think it's on line 3...
 
+## Embedded HTML
+
+We can add HTML straight to our code!
+
+<a src="https://img.shields.io/badge/some%20label-Hello%20World-red"></a>
+
 # Sources
 
 *   [The Markdown Project](https://daringfireball.net/projects/markdown/)
