@@ -2,8 +2,10 @@
 
 
 # Table Of Contents
-`src/` - Where additional markdown files live
+1.  `src/` - Where additional markdown files live
+2.  `collab/` - Where our collaboration will live
 
 # Sources
 
-[The Markdown Project](https://daringfireball.net/projects/markdown/)
+*   [The Markdown Project](https://daringfireball.net/projects/markdown/)
+*   [The Text Editor That Hurts](https://www.vim.org/)
