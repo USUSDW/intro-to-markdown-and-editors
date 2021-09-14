@@ -2,8 +2,8 @@
 
 
 # Table Of Contents
-src/ Where additional markdown files live
+`src/` - Where additional markdown files live
 
 # Sources
 
-https://daringfireball.net/projects/markdown/
+[The Markdown Project](https://daringfireball.net/projects/markdown/)
