@@ -22,3 +22,5 @@ We can add HTML straight to our code!
 
 *   [The Markdown Project](https://daringfireball.net/projects/markdown/)
 *   [The Text Editor That Hurts](https://www.vim.org/)
+*   [Markdown Syntax Guide](https://www.markdownguide.org/basic-syntax/)
+*   [GitHub's Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
