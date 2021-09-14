@@ -7,7 +7,7 @@
 
 ## Issues
 
-[`src/factorial.py`](./src/factorial.py) has an issue. It should compute the factorial of a given number, but it will only return 0. Wat do?
+[`src/factorial.py`](./src/factorial.py#L3) has an issue. It should compute the factorial of a given number, but it will only return 0. Wat do? I think it's on line 3...
 
 # Sources
 
